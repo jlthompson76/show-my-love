@@ -1,0 +1,23 @@
+body {
+    background-color: #ffdfdf;
+    color: red;
+    font-family: 'Dancing Script', serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 500%;
+}
+
+button {
+    background-color: red;
+    color: #ffdfdf;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 200%;
+    border-radius: 50px;
+    padding: 30px;
+    margin-top: 40px;
+}
